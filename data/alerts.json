@@ -1,5 +1,53 @@
 [
   {
+    "id": "redalertlb-16359",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ميفدون",
+    "time": "2026-09-17T19:37:05+00:00"
+  },
+  {
+    "id": "redalertlb-16358",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عرب صاليم",
+    "time": "2026-09-17T18:32:20+00:00"
+  },
+  {
+    "id": "redalertlb-16357",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • زبدين",
+    "time": "2026-09-17T18:32:12+00:00"
+  },
+  {
+    "id": "redalertlb-16356",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • حومين الفوقا",
+    "time": "2026-09-17T18:32:00+00:00"
+  },
+  {
+    "id": "redalertlb-16355",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • كفر تبنيت • كفر رمان • نبطية الفوقا",
+    "time": "2026-09-17T18:30:12+00:00"
+  },
+  {
+    "id": "redalertlb-16354",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جبشيت • شوكين • ميفدون",
+    "time": "2026-09-17T18:27:58+00:00"
+  },
+  {
     "id": "redalertlb-16353",
     "channel": "redalertlb",
     "label": "Drone overflight",
