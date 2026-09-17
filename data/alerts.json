@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "id": "redalertlb-16289",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • بيت شاما",
+    "time": "2026-09-17T06:01:04+00:00"
+  },
+  {
+    "id": "redalertlb-16288",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • القاع • بريتال • حام • خريبة • زعرور • سار • شمسطار • طليا • عاقورة • فرزل • قرطبا • مراح • مراح الجداوي • مقل البوادتي • يمونة",
+    "time": "2026-09-17T05:58:16+00:00"
+  },
+  {
+    "id": "redalertlb-16287",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الكحاله • بمهريه • تعنايل • حمانا • صوفر • عاليه • فريديس الشوف • قرنايل • مزرعة الراس • مشرف • مشرفه",
+    "time": "2026-09-17T05:56:19+00:00"
+  },
+  {
+    "id": "redalertlb-16286",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جنتا",
+    "time": "2026-09-17T05:50:40+00:00"
+  },
+  {
+    "id": "redalertlb-16285",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الكحاله • بسوس • عاريا • عاليه",
+    "time": "2026-09-17T05:47:33+00:00"
+  },
+  {
+    "id": "redalertlb-16284",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • مروانية",
+    "time": "2026-09-17T05:44:41+00:00"
+  },
+  {
+    "id": "redalertlb-16283",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • بريتال • جنتا • حور تعلا • خريبة • يحفوفا",
+    "time": "2026-09-17T05:38:52+00:00"
+  },
+  {
+    "id": "redalertlb-16282",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • زبدين • شوكين • علي الطاهر • كفر تبنيت • كفر رمان • ميفدون",
+    "time": "2026-09-17T05:24:35+00:00"
+  },
+  {
+    "id": "redalertlb-16281",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • نبطية الفوقا",
+    "time": "2026-09-17T00:42:07+00:00"
+  },
+  {
+    "id": "redalertlb-16280",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • شوكين • ميفدون",
+    "time": "2026-09-16T23:44:37+00:00"
+  },
+  {
+    "id": "redalertlb-16279",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • نبطية الفوقا",
+    "time": "2026-09-16T23:10:48+00:00"
+  },
+  {
+    "id": "redalertlb-16278",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • زبدين • شوكين • علي الطاهر • كفر تبنيت • كفر رمان • ميفدون",
+    "time": "2026-09-16T23:08:42+00:00"
+  },
+  {
+    "id": "redalertlb-16277",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جنتا • يحفوفا",
+    "time": "2026-09-16T23:05:24+00:00"
+  },
+  {
+    "id": "redalertlb-16276",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • نبطية الفوقا",
+    "time": "2026-09-16T21:33:07+00:00"
+  },
+  {
+    "id": "redalertlb-16275",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنصوري • سلوقي • شرقية • قرية",
+    "time": "2026-09-16T20:59:39+00:00"
+  },
+  {
+    "id": "redalertlb-16274",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • كفر تبنيت • كفر رمان • ميفدون • نبطية الفوقا",
+    "time": "2026-09-16T20:10:46+00:00"
+  },
+  {
+    "id": "redalertlb-16273",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • كفر تبنيت • كفر رمان • ميفدون • نبطية الفوقا",
+    "time": "2026-09-16T19:45:15+00:00"
+  },
+  {
+    "id": "redalertlb-16272",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جبشيت • زبدين",
+    "time": "2026-09-16T18:53:12+00:00"
+  },
+  {
+    "id": "redalertlb-16271",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • العرقوب • القرعون • زغلة • سحمر • عين التينة • لبايا • ميدون • وردية",
+    "time": "2026-09-16T18:51:08+00:00"
+  },
+  {
+    "id": "redalertlb-16270",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • كفر تبنيت • كفر رمان • ميفدون • نبطية الفوقا",
+    "time": "2026-09-16T18:41:43+00:00"
+  }
+]
