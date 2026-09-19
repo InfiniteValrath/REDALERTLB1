@@ -1,5 +1,77 @@
 [
   {
+    "id": "redalertlb-16423",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • نبطية الفوقا",
+    "time": "2026-09-19T21:25:23+00:00"
+  },
+  {
+    "id": "redalertlb-16422",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • زبقين • سلوقي • شرقية • قرية • نبطية الفوقا",
+    "time": "2026-09-19T21:01:50+00:00"
+  },
+  {
+    "id": "redalertlb-16421",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • شهابية",
+    "time": "2026-09-19T20:46:24+00:00"
+  },
+  {
+    "id": "redalertlb-16420",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدوير • جبشيت",
+    "time": "2026-09-19T20:44:36+00:00"
+  },
+  {
+    "id": "redalertlb-16419",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • تولين",
+    "time": "2026-09-19T20:40:21+00:00"
+  },
+  {
+    "id": "redalertlb-16418",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • خربة سلم",
+    "time": "2026-09-19T20:38:57+00:00"
+  },
+  {
+    "id": "redalertlb-16417",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • تبنين • حاريص",
+    "time": "2026-09-19T20:33:09+00:00"
+  },
+  {
+    "id": "redalertlb-16416",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • صوانة",
+    "time": "2026-09-19T19:58:09+00:00"
+  },
+  {
+    "id": "redalertlb-16415",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • تول • جوز • زبدين • شوكين • علي الطاهر • كفر تبنيت • كفر رمان • مزرعة كفر جوز • ميفدون",
+    "time": "2026-09-19T19:40:15+00:00"
+  },
+  {
     "id": "redalertlb-16414",
     "channel": "redalertlb",
     "label": "Drone overflight",
