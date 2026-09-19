@@ -1,5 +1,37 @@
 [
   {
+    "id": "redalertlb-16382",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • نبطية الفوقا",
+    "time": "2026-09-19T05:58:07+00:00"
+  },
+  {
+    "id": "redalertlb-16381",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • نبطية الفوقا",
+    "time": "2026-09-19T04:28:47+00:00"
+  },
+  {
+    "id": "redalertlb-16380",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جبشيت",
+    "time": "2026-09-19T04:26:51+00:00"
+  },
+  {
+    "id": "redalertlb-16379",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • نبطية الفوقا",
+    "time": "2026-09-19T02:26:33+00:00"
+  },
+  {
     "id": "redalertlb-16378",
     "channel": "redalertlb",
     "label": "Drone overflight",
