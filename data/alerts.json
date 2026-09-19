@@ -1,5 +1,29 @@
 [
   {
+    "id": "redalertlb-16385",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المجدل • حي السلم • مجدل سلم",
+    "time": "2026-09-19T11:22:18+00:00"
+  },
+  {
+    "id": "redalertlb-16384",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أرنون • المنزلة • علي الطاهر • كفر تبنيت • نبطية الفوقا",
+    "time": "2026-09-19T10:49:27+00:00"
+  },
+  {
+    "id": "redalertlb-16383",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أرنون • المنزلة • علي الطاهر • كفر تبنيت • نبطية الفوقا",
+    "time": "2026-09-19T09:04:39+00:00"
+  },
+  {
     "id": "redalertlb-16382",
     "channel": "redalertlb",
     "label": "Drone overflight",
