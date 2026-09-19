@@ -1,5 +1,85 @@
 [
   {
+    "id": "redalertlb-16400",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • سلعا",
+    "time": "2026-09-19T17:30:23+00:00"
+  },
+  {
+    "id": "redalertlb-16399",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المرج • بر الياس • دير زنون",
+    "time": "2026-09-19T17:02:28+00:00"
+  },
+  {
+    "id": "redalertlb-16398",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عبا",
+    "time": "2026-09-19T17:00:13+00:00"
+  },
+  {
+    "id": "redalertlb-16397",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدوير • تول • جبشيت",
+    "time": "2026-09-19T16:42:12+00:00"
+  },
+  {
+    "id": "redalertlb-16396",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المجدل • حي السلم • مجدل سلم",
+    "time": "2026-09-19T16:38:57+00:00"
+  },
+  {
+    "id": "redalertlb-16395",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • دير زنون",
+    "time": "2026-09-19T16:24:08+00:00"
+  },
+  {
+    "id": "redalertlb-16394",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية الفوقا",
+    "time": "2026-09-19T16:04:57+00:00"
+  },
+  {
+    "id": "redalertlb-16393",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • سلطانية • سلعا",
+    "time": "2026-09-19T15:59:02+00:00"
+  },
+  {
+    "id": "redalertlb-16392",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أشرفية المية ومية • درب السيم • دلب • سيل • عين الدلب • عين الدلبة • قرية",
+    "time": "2026-09-19T15:25:20+00:00"
+  },
+  {
+    "id": "redalertlb-16391",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدوير • تول • جبشيت",
+    "time": "2026-09-19T14:51:23+00:00"
+  },
+  {
     "id": "redalertlb-16390",
     "channel": "redalertlb",
     "label": "Drone overflight",
