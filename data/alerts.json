@@ -1,5 +1,29 @@
 [
   {
+    "id": "redalertlb-16540",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ياطر",
+    "time": "2026-09-20T22:41:38+00:00"
+  },
+  {
+    "id": "redalertlb-16539",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الحمراء • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • ميفدون",
+    "time": "2026-09-20T22:27:24+00:00"
+  },
+  {
+    "id": "redalertlb-16538",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنصوري • بني حيان • شرقية",
+    "time": "2026-09-20T21:32:31+00:00"
+  },
+  {
     "id": "redalertlb-16537",
     "channel": "redalertlb",
     "label": "Drone overflight",
