@@ -1,5 +1,69 @@
 [
   {
+    "id": "redalertlb-16437",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أرنون • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية الفوقا",
+    "time": "2026-09-20T06:44:55+00:00"
+  },
+  {
+    "id": "redalertlb-16435",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • غازية",
+    "time": "2026-09-20T06:36:20+00:00"
+  },
+  {
+    "id": "redalertlb-16436",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • شعت • نبحا",
+    "time": "2026-09-20T06:36:20+00:00"
+  },
+  {
+    "id": "redalertlb-16434",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • التوفيقية • بعلبك • حرفوش • راس بعلبك • سقي عين الحدث • شعت • صفرا • عيون المتن • مراح • منيرة • نبحا • يونين",
+    "time": "2026-09-20T06:33:49+00:00"
+  },
+  {
+    "id": "redalertlb-16433",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الضهر • المصنع • تمنين الفوقا • حوش النبي • سيرة هنا • طليا • كفر دبش • مجدلون • مراح • مزرعة • مزرعة الضهور • مزرعة بيت صليبي • نبي ايلا",
+    "time": "2026-09-20T06:31:08+00:00"
+  },
+  {
+    "id": "redalertlb-16432",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الأشرفية • الشويفات • العدلية • اليرزة • برج البراجنة • بعبدا • بيروت • تلة • جناح • حارة حريك • رأس النبع • شياح • غبيري • فياضية • مزرعة الراس",
+    "time": "2026-09-20T06:27:03+00:00"
+  },
+  {
+    "id": "redalertlb-16431",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية التحتا • نبطية الفوقا",
+    "time": "2026-09-20T06:18:33+00:00"
+  },
+  {
+    "id": "redalertlb-16430",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية التحتا • نبطية الفوقا",
+    "time": "2026-09-20T05:07:56+00:00"
+  },
+  {
     "id": "redalertlb-16429",
     "channel": "redalertlb",
     "label": "Drone overflight",
