@@ -1,5 +1,165 @@
 [
   {
+    "id": "redalertlb-16480",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المجدل • حي السلم • مجدل سلم",
+    "time": "2026-09-20T11:53:15+00:00"
+  },
+  {
+    "id": "redalertlb-16479",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • سلطانية",
+    "time": "2026-09-20T11:40:41+00:00"
+  },
+  {
+    "id": "redalertlb-16477",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدامور • السعديات • الضهر • برجا • جدرا • حارة بيت ماضي",
+    "time": "2026-09-20T11:34:30+00:00"
+  },
+  {
+    "id": "redalertlb-16478",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • تبنين • حداثا • سلطانية • شقرا • عيتا الجبل الزط",
+    "time": "2026-09-20T11:34:30+00:00"
+  },
+  {
+    "id": "redalertlb-16476",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • سحمر • يحمر",
+    "time": "2026-09-20T11:32:43+00:00"
+  },
+  {
+    "id": "redalertlb-16475",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عين بعل",
+    "time": "2026-09-20T11:30:59+00:00"
+  },
+  {
+    "id": "redalertlb-16474",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أرنون • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية الفوقا",
+    "time": "2026-09-20T11:30:43+00:00"
+  },
+  {
+    "id": "redalertlb-16473",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • باتوليه",
+    "time": "2026-09-20T11:30:31+00:00"
+  },
+  {
+    "id": "redalertlb-16470",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • سحمر • عين التينة • لبايا",
+    "time": "2026-09-20T11:24:15+00:00"
+  },
+  {
+    "id": "redalertlb-16471",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • لبايا",
+    "time": "2026-09-20T11:24:15+00:00"
+  },
+  {
+    "id": "redalertlb-16472",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الروشة • اوزاعي • برج البراجنة • بعبدا • بيروت • تلة • جناح • حارة حريك • شياح • غبيري",
+    "time": "2026-09-20T11:24:15+00:00"
+  },
+  {
+    "id": "redalertlb-16469",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • برغز",
+    "time": "2026-09-20T10:48:24+00:00"
+  },
+  {
+    "id": "redalertlb-16468",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عيتا الجبل الزط",
+    "time": "2026-09-20T10:45:09+00:00"
+  },
+  {
+    "id": "redalertlb-16467",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • تبنين • حاريص • حداثا • سلطانية • كفرا • ياطر",
+    "time": "2026-09-20T10:37:05+00:00"
+  },
+  {
+    "id": "redalertlb-16466",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جويا • رشكنانيه • سلعا • شهابية • صديقين • قانا • مزرعة • مشرف",
+    "time": "2026-09-20T10:36:15+00:00"
+  },
+  {
+    "id": "redalertlb-16465",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • أرنون",
+    "time": "2026-09-20T10:01:40+00:00"
+  },
+  {
+    "id": "redalertlb-16464",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • صديقين",
+    "time": "2026-09-20T10:00:29+00:00"
+  },
+  {
+    "id": "redalertlb-16463",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • قطراني",
+    "time": "2026-09-20T10:00:19+00:00"
+  },
+  {
+    "id": "redalertlb-16462",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدامور • السعديات • الضهر • برجا • جدرا • جية • حارة بيت ماضي • سهل الجية",
+    "time": "2026-09-20T09:58:14+00:00"
+  },
+  {
+    "id": "redalertlb-16461",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الشويفات • الضاحية الجنوبية • المجادل • بيروت • جناح • سلعا • قانا • معركة",
+    "time": "2026-09-20T09:55:42+00:00"
+  },
+  {
     "id": "redalertlb-16437",
     "channel": "redalertlb",
     "label": "Drone overflight",
