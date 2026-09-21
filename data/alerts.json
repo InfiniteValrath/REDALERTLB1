@@ -1,5 +1,13 @@
 [
   {
+    "id": "redalertlb-16541",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الحمراء • المنزلة • علي الطاهر • كفر تبنيت • كفر رمان • ميفدون",
+    "time": "2026-09-21T00:15:42+00:00"
+  },
+  {
     "id": "redalertlb-16540",
     "channel": "redalertlb",
     "label": "Drone overflight",
