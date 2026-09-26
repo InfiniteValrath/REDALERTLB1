@@ -1,5 +1,37 @@
 [
   {
+    "id": "redalertlb-16989",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عين التينة • لبايا",
+    "time": "2026-09-25T22:43:04+00:00"
+  },
+  {
+    "id": "redalertlb-16988",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الكفور • تول",
+    "time": "2026-09-25T21:53:10+00:00"
+  },
+  {
+    "id": "redalertlb-16987",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • حومين الفوقا",
+    "time": "2026-09-25T21:50:19+00:00"
+  },
+  {
+    "id": "redalertlb-16986",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عين التينة • لبايا",
+    "time": "2026-09-25T21:43:10+00:00"
+  },
+  {
     "id": "redalertlb-16985",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2366,37 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • الكحاله • بسوس • جمهور • عاريا",
     "time": "2026-09-21T07:02:25+00:00"
-  },
-  {
-    "id": "redalertlb-16547",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • كفر دان",
-    "time": "2026-09-21T06:59:32+00:00"
-  },
-  {
-    "id": "redalertlb-16546",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • الروشة • الشويفات • العدلية • اليرزة • برج البراجنة • بعبدا • بيروت • تلة • حارة حريك • روم • فياضية",
-    "time": "2026-09-21T06:26:42+00:00"
-  },
-  {
-    "id": "redalertlb-16545",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • المنزلة • علي الطاهر • كفر تبنيت • ميفدون • نبطية الفوقا",
-    "time": "2026-09-21T06:25:03+00:00"
-  },
-  {
-    "id": "redalertlb-16544",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بدنايل • بيت شاما",
-    "time": "2026-09-21T06:23:49+00:00"
   }
 ]
