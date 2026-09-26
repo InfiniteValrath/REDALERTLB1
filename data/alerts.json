@@ -1,5 +1,21 @@
 [
   {
+    "id": "redalertlb-16991",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المجدل • مجدل سلم",
+    "time": "2026-09-26T03:42:30+00:00"
+  },
+  {
+    "id": "redalertlb-16990",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • الدوير • تول • جبشيت",
+    "time": "2026-09-26T02:32:13+00:00"
+  },
+  {
     "id": "redalertlb-16989",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2382,21 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • زبدين • نبطية التحتا",
     "time": "2026-09-21T07:04:38+00:00"
-  },
-  {
-    "id": "redalertlb-16550",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بليبل",
-    "time": "2026-09-21T07:04:38+00:00"
-  },
-  {
-    "id": "redalertlb-16548",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • الكحاله • بسوس • جمهور • عاريا",
-    "time": "2026-09-21T07:02:25+00:00"
   }
 ]
