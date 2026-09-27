@@ -1,5 +1,45 @@
 [
   {
+    "id": "redalertlb-17218",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • القرعون • سحمر • عين التينة • لبايا",
+    "time": "2026-09-27T21:57:53+00:00"
+  },
+  {
+    "id": "redalertlb-17217",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • قصيبة",
+    "time": "2026-09-27T21:57:34+00:00"
+  },
+  {
+    "id": "redalertlb-17216",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنصوري • حداثا • شرقية • قرية • ميفدون",
+    "time": "2026-09-27T21:22:18+00:00"
+  },
+  {
+    "id": "redalertlb-17215",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • برغز • كوكبا",
+    "time": "2026-09-27T21:07:57+00:00"
+  },
+  {
+    "id": "redalertlb-17214",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنصوري • حداثا • شرقية • قرية • ميفدون",
+    "time": "2026-09-27T20:57:17+00:00"
+  },
+  {
     "id": "redalertlb-17213",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2358,45 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • المنزلة • شوكين • علي الطاهر • ميفدون • نبطية الفوقا",
     "time": "2026-09-23T16:36:13+00:00"
-  },
-  {
-    "id": "redalertlb-16741",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • تبنين • عيتا الجبل الزط",
-    "time": "2026-09-23T16:33:54+00:00"
-  },
-  {
-    "id": "redalertlb-16740",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • تبنين • سلطانية • صفد البطيخ",
-    "time": "2026-09-23T15:53:27+00:00"
-  },
-  {
-    "id": "redalertlb-16739",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • المنزلة • كفر تبنيت • نبطية الفوقا",
-    "time": "2026-09-23T15:25:41+00:00"
-  },
-  {
-    "id": "redalertlb-16738",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • شرقية",
-    "time": "2026-09-23T15:19:38+00:00"
-  },
-  {
-    "id": "redalertlb-16737",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • فرون",
-    "time": "2026-09-23T15:06:17+00:00"
   }
 ]
