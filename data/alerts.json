@@ -1,5 +1,21 @@
 [
   {
+    "id": "redalertlb-17293",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المجدل • حولا • شقرا • مجدل سلم",
+    "time": "2026-09-29T22:03:43+00:00"
+  },
+  {
+    "id": "redalertlb-17292",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنصوري • برعشيت • سلوقي • شرقية • كفر تبنيت",
+    "time": "2026-09-29T20:59:38+00:00"
+  },
+  {
     "id": "redalertlb-17291",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2382,21 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • لبايا",
     "time": "2026-09-24T20:46:11+00:00"
-  },
-  {
-    "id": "redalertlb-16813",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • يحمر",
-    "time": "2026-09-24T20:42:14+00:00"
-  },
-  {
-    "id": "redalertlb-16812",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • سحمر",
-    "time": "2026-09-24T20:37:28+00:00"
   }
 ]
