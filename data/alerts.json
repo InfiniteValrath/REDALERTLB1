@@ -1,5 +1,29 @@
 [
   {
+    "id": "redalertlb-17274",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • قانا",
+    "time": "2026-09-29T08:17:28+00:00"
+  },
+  {
+    "id": "redalertlb-17273",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • فرون",
+    "time": "2026-09-29T05:59:38+00:00"
+  },
+  {
+    "id": "redalertlb-17272",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ميفدون",
+    "time": "2026-09-29T03:03:21+00:00"
+  },
+  {
     "id": "redalertlb-17271",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2374,29 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • برج البراجنة • جناح",
     "time": "2026-09-24T13:35:44+00:00"
-  },
-  {
-    "id": "redalertlb-16794",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • المنزلة • ميفدون • نبطية الفوقا",
-    "time": "2026-09-24T13:17:21+00:00"
-  },
-  {
-    "id": "redalertlb-16793",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بريقع • قصيبة • كفرصير",
-    "time": "2026-09-24T13:17:05+00:00"
-  },
-  {
-    "id": "redalertlb-16792",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • جدرا",
-    "time": "2026-09-24T12:45:51+00:00"
   }
 ]
