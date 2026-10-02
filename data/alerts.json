@@ -1,5 +1,21 @@
 [
   {
+    "id": "redalertlb-17411",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جنتا • حور تعلا • يحفوفا",
+    "time": "2026-10-02T20:04:49+00:00"
+  },
+  {
+    "id": "redalertlb-17410",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جنتا",
+    "time": "2026-10-02T19:59:43+00:00"
+  },
+  {
     "id": "redalertlb-17409",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2382,21 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • سحمر • يحمر",
     "time": "2026-09-26T10:04:15+00:00"
-  },
-  {
-    "id": "redalertlb-17049",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • تولين",
-    "time": "2026-09-26T10:02:13+00:00"
-  },
-  {
-    "id": "redalertlb-17047",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • الطيونة • برج البراجنة • حارة حريك • شياح • غبيري • ليلكي",
-    "time": "2026-09-26T09:49:02+00:00"
   }
 ]
