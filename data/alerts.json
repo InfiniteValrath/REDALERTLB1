@@ -1,5 +1,13 @@
 [
   {
+    "id": "redalertlb-17412",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • المنزلة • نبطية التحتا • نبطية الفوقا",
+    "time": "2026-10-03T11:34:52+00:00"
+  },
+  {
     "id": "redalertlb-17411",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2390,13 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • عين التينة",
     "time": "2026-09-26T10:06:56+00:00"
-  },
-  {
-    "id": "redalertlb-17050",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • سحمر • يحمر",
-    "time": "2026-09-26T10:04:15+00:00"
   }
 ]
