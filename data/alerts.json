@@ -1,5 +1,37 @@
 [
   {
+    "id": "redalertlb-17493",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • بعلبك • سقي عين الحدث • شمسطار",
+    "time": "2026-10-04T02:26:59+00:00"
+  },
+  {
+    "id": "redalertlb-17492",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جبشيت",
+    "time": "2026-10-04T02:25:05+00:00"
+  },
+  {
+    "id": "redalertlb-17491",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جوز • مزرعة كفر جوز",
+    "time": "2026-10-04T00:35:27+00:00"
+  },
+  {
+    "id": "redalertlb-17490",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • جوز • مزرعة كفر جوز",
+    "time": "2026-10-04T00:07:15+00:00"
+  },
+  {
     "id": "redalertlb-17489",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2366,37 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • الطيونة",
     "time": "2026-09-27T06:00:33+00:00"
-  },
-  {
-    "id": "redalertlb-17110",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • إده • الطيونة • اليرزة • بعبدا • جمهور • سقي عين الحدث • شياح • ليلكي • مرداشة",
-    "time": "2026-09-27T05:56:39+00:00"
-  },
-  {
-    "id": "redalertlb-17109",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • برج البراجنة • حارة حريك • حي السلم",
-    "time": "2026-09-27T05:52:42+00:00"
-  },
-  {
-    "id": "redalertlb-17108",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • الروشة • الضاحية الجنوبية • برج البراجنة • بيروت • حارة حريك",
-    "time": "2026-09-27T05:49:33+00:00"
-  },
-  {
-    "id": "redalertlb-17107",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بلاط • جبشيت • جوز • عبا • كفر رمان • وردية",
-    "time": "2026-09-27T04:38:06+00:00"
   }
 ]
