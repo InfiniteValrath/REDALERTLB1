@@ -1,5 +1,13 @@
 [
   {
+    "id": "redalertlb-17648",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ميفدون",
+    "time": "2026-10-07T19:53:59+00:00"
+  },
+  {
     "id": "redalertlb-17647",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2390,13 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • الجرمق • الخيام • دبين • قليعة • محمودية",
     "time": "2026-09-30T19:23:37+00:00"
-  },
-  {
-    "id": "redalertlb-17327",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • سلطانية",
-    "time": "2026-09-30T19:17:37+00:00"
   }
 ]
