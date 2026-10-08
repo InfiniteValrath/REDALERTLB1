@@ -1,5 +1,37 @@
 [
   {
+    "id": "redalertlb-17710",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عيتيت",
+    "time": "2026-10-08T23:15:50+00:00"
+  },
+  {
+    "id": "redalertlb-17709",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • شقرا",
+    "time": "2026-10-08T22:24:38+00:00"
+  },
+  {
+    "id": "redalertlb-17708",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ميفدون",
+    "time": "2026-10-08T21:14:10+00:00"
+  },
+  {
+    "id": "redalertlb-17707",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • تولين",
+    "time": "2026-10-08T20:37:41+00:00"
+  },
+  {
     "id": "redalertlb-17706",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2366,37 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • طورا",
     "time": "2026-10-01T11:07:55+00:00"
-  },
-  {
-    "id": "redalertlb-17367",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • قصيبة",
-    "time": "2026-10-01T08:27:15+00:00"
-  },
-  {
-    "id": "redalertlb-17366",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بيصور • جنسنايا • درب السيم • رميلة",
-    "time": "2026-10-01T08:23:44+00:00"
-  },
-  {
-    "id": "redalertlb-17365",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • نبطية التحتا",
-    "time": "2026-10-01T07:33:33+00:00"
-  },
-  {
-    "id": "redalertlb-17364",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • بيصور • جنسنايا • درب السيم • رميلة",
-    "time": "2026-10-01T07:31:44+00:00"
   }
 ]
