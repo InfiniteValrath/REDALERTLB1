@@ -1,5 +1,21 @@
 [
   {
+    "id": "redalertlb-17650",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عيتا الجبل الزط • كونين",
+    "time": "2026-10-08T04:32:35+00:00"
+  },
+  {
+    "id": "redalertlb-17649",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • ميفدون",
+    "time": "2026-10-08T03:16:57+00:00"
+  },
+  {
     "id": "redalertlb-17648",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2382,21 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • المجدل • حولا • حي السلم • مجدل سلم",
     "time": "2026-09-30T19:34:42+00:00"
-  },
-  {
-    "id": "redalertlb-17329",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • حاريص",
-    "time": "2026-09-30T19:27:12+00:00"
-  },
-  {
-    "id": "redalertlb-17328",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • الجرمق • الخيام • دبين • قليعة • محمودية",
-    "time": "2026-09-30T19:23:37+00:00"
   }
 ]
