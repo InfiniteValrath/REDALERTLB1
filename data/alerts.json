@@ -1,5 +1,21 @@
 [
   {
+    "id": "redalertlb-17712",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • شعيتية",
+    "time": "2026-10-09T00:33:51+00:00"
+  },
+  {
+    "id": "redalertlb-17711",
+    "channel": "redalertlb",
+    "label": "Drone overflight",
+    "type": "drone",
+    "text": "🚨 تحليق مسير • عيتيت",
+    "time": "2026-10-08T23:57:37+00:00"
+  },
+  {
     "id": "redalertlb-17710",
     "channel": "redalertlb",
     "label": "Drone overflight",
@@ -2382,21 +2398,5 @@
     "type": "drone",
     "text": "🚨 تحليق مسير • نحله",
     "time": "2026-10-01T11:40:43+00:00"
-  },
-  {
-    "id": "redalertlb-17369",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • عدشيت الشقيف • قصيبة",
-    "time": "2026-10-01T11:23:53+00:00"
-  },
-  {
-    "id": "redalertlb-17368",
-    "channel": "redalertlb",
-    "label": "Drone overflight",
-    "type": "drone",
-    "text": "🚨 تحليق مسير • طورا",
-    "time": "2026-10-01T11:07:55+00:00"
   }
 ]
